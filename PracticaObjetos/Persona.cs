@@ -8,6 +8,9 @@ namespace PrácticaObjetos
 {
     class Persona
     {
+        //Modificadores de acceso
+        //Public y Private
+        
         // Atributos
         // Definidos a través de variables
         public string nombre;
